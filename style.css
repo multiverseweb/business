@@ -9,17 +9,17 @@ body{
     color: black;
 }
 .logo{
-    height: 45px;
+    height: 55px;
     padding-right: 35%;
     margin-left: -38%;
 }
 .gmail{
-    height: 40px;
+    height: 50px;
     padding-right: 35%;
     margin-left: -42%;
 }
 .github{
-        height: 47px;
+        height: 57px;
         padding-right: 35%;
         margin-left: -42%;
     }
@@ -41,7 +41,7 @@ body{
     margin-right: 3%;
 }
 .face{
-    max-height: 250px;
+    max-height: 350px;
     background-color: rgb(27, 27, 27);
     padding: 1%;
     border-radius: 50%;
