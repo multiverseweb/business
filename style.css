@@ -2,7 +2,7 @@ body{
     margin-top: 4%;
     background-color: black;
     color: white;
-    font-size:30px;
+    font-size:40px;
 }
 ::selection{
     background-color: rgba(0, 255, 255, 0.542);
@@ -46,7 +46,7 @@ body{
     padding: 1%;
     border-radius: 50%;
     margin-left: 3%;
-    margin-top: 5%;
+    margin-top: 4%;
 }
 .connect{
     text-align: center;
@@ -59,7 +59,7 @@ body{
     margin-left: 5%;
 }
 .links a{
-    font-size:30px;
+    font-size:40px;
     color: white;
     text-decoration: none;
     padding: 4%;
