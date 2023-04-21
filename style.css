@@ -9,17 +9,17 @@ body{
     color: black;
 }
 .logo{
-    height: 35px;
+    height: 45px;
     padding-right: 35%;
     margin-left: -38%;
 }
 .gmail{
-    height: 30px;
+    height: 40px;
     padding-right: 35%;
     margin-left: -42%;
 }
 .github{
-        height: 37px;
+        height: 47px;
         padding-right: 35%;
         margin-left: -42%;
     }
@@ -41,12 +41,12 @@ body{
     margin-right: 3%;
 }
 .face{
-    max-height: 200px;
+    max-height: 250px;
     background-color: rgb(27, 27, 27);
     padding: 1%;
     border-radius: 50%;
     margin-left: 3%;
-    margin-top: 3%;
+    margin-top: 5%;
 }
 .connect{
     text-align: center;
@@ -61,15 +61,15 @@ body{
 .links a{
     color: white;
     text-decoration: none;
-    padding: 3%;
+    padding: 4%;
     background-color: rgba(27, 27, 27, 0.685);
-    margin-top: 3%;
-    border-radius: 5px;
+    margin-top: 4%;
+    border-radius: 9px;
 }
 a:hover{
     transform: scale(1.02);
     background-color: rgb(34, 34, 34);
-    transition-duration: 0.2s;
+    transition-duration: 0.1s;
 }
 .sign{
     opacity: 0.6;
@@ -80,7 +80,7 @@ a:hover{
 }
 
 hr{
-    width: 50%;
+    width: 70%;
     margin-top: 7%;
     margin-bottom: 5%;
     color: rgb(27, 27, 27);
