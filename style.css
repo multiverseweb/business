@@ -59,6 +59,7 @@ body{
     margin-left: 5%;
 }
 .links a{
+    font-size:30px;
     color: white;
     text-decoration: none;
     padding: 4%;
