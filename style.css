@@ -2,23 +2,24 @@ body{
     margin-top: 4%;
     background-color: black;
     color: white;
+    font-size:30px;
 }
 ::selection{
     background-color: rgba(0, 255, 255, 0.542);
     color: black;
 }
 .logo{
-    height: 25px;
+    height: 35px;
     padding-right: 35%;
     margin-left: -38%;
 }
 .gmail{
-    height: 20px;
+    height: 30px;
     padding-right: 35%;
     margin-left: -42%;
 }
 .github{
-        height: 27px;
+        height: 37px;
         padding-right: 35%;
         margin-left: -42%;
     }
@@ -32,7 +33,7 @@ body{
     margin-right: 3%;
 }
 .face{
-    max-height: 140px;
+    max-height: 200px;
     background-color: rgb(27, 27, 27);
     padding: 1%;
     border-radius: 50%;
