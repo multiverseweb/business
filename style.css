@@ -23,7 +23,15 @@ body{
         padding-right: 35%;
         margin-left: -42%;
     }
-
+.logo:hover{
+    filter: invert(1);
+}
+.github:hover{
+    filter: invert(1);
+}
+.gmail:hover{
+    filter: invert(1);
+}
 .horizontal{
     display: flex;
 }
@@ -61,7 +69,6 @@ body{
 a:hover{
     transform: scale(1.02);
     background-color: rgb(34, 34, 34);
-    color: rgb(0, 0, 0);
     transition-duration: 0.2s;
 }
 .sign{
