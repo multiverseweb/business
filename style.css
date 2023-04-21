@@ -139,8 +139,8 @@ hr{
 
 @media(min-width:600px){
     .links{
-        width: 70%;
-        margin-left: 15%;
+        width: 90%;
+        margin-left: 5%;
     }
     .logo{
         margin-bottom: -1%;
@@ -168,14 +168,14 @@ hr{
             max-height: 200px;
             padding: 0.4%;
             border-radius: 50%;
-            margin-left: 15%;
+            margin-left: 5%;
             margin-top: 6%;
         }
         .name{
             margin-top: 5%;
             margin-left: 3%;
             text-align: justify;
-            margin-right: 15%;
+            margin-right: 5%;
         }
        
 }
