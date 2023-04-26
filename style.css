@@ -17,7 +17,7 @@ body{
 .linkedin{
     height: 55px;
     padding-right: 33%;
-    margin-left: -41%;
+    margin-left: -40%;
 }
 .gmail{
     height: 50px;
@@ -136,7 +136,7 @@ hr{
         }
         body{
             margin-top: 1%;
-            font-size: large;
+            font-size: 23px;
         }
         .face{
             max-height: 175px;
