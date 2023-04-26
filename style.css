@@ -96,46 +96,57 @@ hr{
 }
 @media(min-width:1000px){
     .links{
-        width: 60%;
-        margin-left: 20%;
+        width: 40%;
+        margin-left: 30%;
     }
     .logo{
+        padding-top:7px;
         margin-bottom: -1%;
         height: 35px;
-        padding-right: 42%;
-        margin-left: -45%;
+        padding-right: 31%;
+        margin-left: -41%;
     }
     .gmail{
+        padding-top:7px;
         margin-bottom: -1%;
         height: 30px;
-        padding-right: 42%;
-        margin-left: -47%;
+        padding-right: 31%;
+        margin-left: -43%;
     }
     .github{
+        padding-top:7px;
         margin-bottom: -1%;
             height: 37px;
-            padding-right: 42%;
-            margin-left: -47%;
+            padding-right: 31%;
+            margin-left: -43%;
+        }
+    .linkedin{
+        padding-top:7px;
+        margin-bottom: -1%;
+            height: 37px;
+            padding-right: 31%;
+            margin-left: -43%;
         }
         .links a{
             padding: 1%;
-            margin-top: 1%;
+            margin-top: 3%;
             border-radius: 5px;
             padding-bottom: 2%;
+            font-size:20px;
         }
         body{
             margin-top: 1%;
-            font-size: larger;
+            font-size: large;
         }
         .face{
-            max-height: 200px;
+            max-height: 175px;
             padding: 0.4%;
             border-radius: 50%;
-            margin-left: 15%;
+            margin-left: 30%;
             margin-top: 3%;
         }
         hr{
-            width: 50%;
+            width: 40%;
             margin-top: 3%;
             margin-bottom: 2%;
             color: rgb(27, 27, 27);
@@ -148,11 +159,9 @@ hr{
         .name{
             margin-top: 5%;
             margin-left: 6%;
-            text-align: justify;
-            margin-right: 15%;
+            text-align: left;
+            margin-right: 30%;
         }
 }
-
-
 
 
