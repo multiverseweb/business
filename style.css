@@ -3,7 +3,7 @@ body{
     background-color: black;
     color: white;
     font-size:40px;
-    font-family:monospace;
+    font-family:'Times New Roman', Times, serif;
 }
 ::selection{
     background-color: rgba(0, 255, 255, 0.542);
