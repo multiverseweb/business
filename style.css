@@ -4,6 +4,7 @@ body{
     color: white;
     font-size:40px;
     font-family:'Times New Roman', Times, serif;
+    overflow-x:hidden;
 }
 ::selection{
     background-color: rgba(0, 255, 255, 0.542);
@@ -189,7 +190,7 @@ hr{
 }
 
  .starlink{
-    margin-top: 50%;
+    margin-top: 45%;
         width: 110%;
         -ms-transform: rotate(-30deg); /* IE 9 */
         -webkit-transform: rotate(-30deg); /* Safari */
