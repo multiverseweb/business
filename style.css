@@ -15,6 +15,11 @@ body{
     padding-right: 33%;
     margin-left: -36%;
 }
+.discord{
+    height: 55px;
+    padding-right: 33%;
+    margin-left: -39%;
+}
 .linkedin{
     height: 55px;
     padding-right: 33%;
@@ -28,7 +33,7 @@ body{
 .github{
         height: 57px;
         padding-right: 35%;
-        margin-left: -42%;
+        margin-left: -40%;
     }
 .logo:hover{
     filter: invert(1);
