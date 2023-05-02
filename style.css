@@ -190,7 +190,8 @@ hr{
 }
 
  .starlink{
-    margin-top: 45%;
+     margin-left:-10%;
+    margin-top: 85%;
         width: 110%;
         -ms-transform: rotate(-30deg); /* IE 9 */
         -webkit-transform: rotate(-30deg); /* Safari */
