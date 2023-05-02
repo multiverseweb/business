@@ -192,7 +192,7 @@ hr{
  .starlink{
      font-size:30px;
      margin-left:-10%;
-    margin-top: 85%;
+    margin-top: 100%;
         width: 110%;
         -ms-transform: rotate(-30deg); /* IE 9 */
         -webkit-transform: rotate(-30deg); /* Safari */
