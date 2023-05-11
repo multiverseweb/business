@@ -6,6 +6,9 @@ body{
     font-family:'Times New Roman', Times, serif;
     overflow-x:hidden;
 }
+*{
+    margin:0;
+}
 ::selection{
     background-color: rgba(0, 255, 255, 0.342);
     color: black;
