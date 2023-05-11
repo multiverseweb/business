@@ -44,6 +44,12 @@ body{
 .gmail:hover{
     filter: invert(1);
 }
+.discord:hover{
+    filter: invert(1);
+}
+.linkedin:hover{
+    filter: invert(1);
+}
 .horizontal{
     display: flex;
 }
