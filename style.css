@@ -18,43 +18,17 @@ body{
 }
 .logo{
     height: 55px;
-    padding-right: 33%;
-    margin-left: -36%;
+    margin-right: 33%;
+    margin-left: -1%;
+    border-radius: 50%;
+    transition:0.7s;
 }
-.discord{
-    height: 55px;
-    padding-right: 33%;
-    margin-left: -39%;
-}
-.linkedin{
-    height: 55px;
-    padding-right: 33%;
-    margin-left: -39%;
-}
-.gmail{
-    height: 46px;
-    padding-right: 36%;
-    margin-left: -42%;
-}
-.github{
-        height: 57px;
-        padding-right: 35%;
-        margin-left: -40%;
-    }
 .logo:hover{
     filter: invert(1);
 }
-.github:hover{
-    filter: invert(1);
-}
-.gmail:hover{
-    filter: invert(1);
-}
-.discord:hover{
-    filter: invert(1);
-}
-.linkedin:hover{
-    filter: invert(1);
+.textname{
+    margin-left: 10%;
+    transform: translateX(-50%)
 }
 .horizontal{
     display: flex;
@@ -85,6 +59,7 @@ body{
     margin-left: 5%;
 }
 .links a{
+    display: flex;
     font-size:40px;
     color: white;
     text-decoration: none;
@@ -124,27 +99,7 @@ hr{
         padding-right: 31%;
         margin-left: -41%;
     }
-    .gmail{
-        padding-top:7px;
-        margin-bottom: -1%;
-        height: 30px;
-        padding-right: 31%;
-        margin-left: -43%;
-    }
-    .github{
-        padding-top:7px;
-        margin-bottom: -1%;
-            height: 37px;
-            padding-right: 31%;
-            margin-left: -43%;
-        }
-    .linkedin{
-        padding-top:7px;
-        margin-bottom: -1%;
-            height: 37px;
-            padding-right: 31%;
-            margin-left: -43%;
-        }
+    
         .links a{
             padding: 1%;
             margin-top: 3%;
