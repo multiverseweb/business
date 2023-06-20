@@ -17,10 +17,11 @@ body{
     color: black;
 }
 .logo{
+    margin-top:1%;
     height: 55px;
     margin-right: 33%;
     margin-left: -1%;
-    border-radius: 50%;
+    border-radius: 3%;
     transition:0.7s;
 }
 .logo:hover{
@@ -93,6 +94,7 @@ hr{
         margin-left: 30%;
     }
     .logo{
+        margin-top:2%;
         padding-top:7px;
         margin-bottom: -1%;
         height: 35px;
