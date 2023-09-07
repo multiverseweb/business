@@ -14,15 +14,18 @@ body{
 #threads{
     filter:invert(1);
 }
+#threads:hover{
+    filter:invert(0);
+}
 ::selection{
     background-color: rgba(0, 255, 255, 0.342);
     color: black;
 }
 .logo{
-    margin-top:1%;
+    margin-top:3%;
     height: 80px;
     margin-right: 33%;
-    margin-left: -1%;
+    margin-left: 2%;
     border-radius: 3%;
     transition:0.7s;
 }
