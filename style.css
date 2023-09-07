@@ -34,7 +34,7 @@ body{
 }
 .textname{
     margin-left: 10%;
-    transform: translateX(-50%)
+    transform: translate(-50%)
 }
 .horizontal{
     display: flex;
