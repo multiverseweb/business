@@ -14,9 +14,7 @@ body{
 #threads{
     filter:invert(1);
 }
-#threads:hover{
-    filter:invert(0);
-}
+
 ::selection{
     background-color: rgba(0, 255, 255, 0.342);
     color: black;
