@@ -98,8 +98,14 @@ hr{
     margin-bottom: 5%;
     color: rgb(27, 27, 27);
     opacity: 0.7;
+    margin-left:25%;
 }
 @media(min-width:1000px){
+    .screen{
+    margin-left: 15vw;
+    height: 40vh;
+    width: 70vw;
+}
     .links{
         width: 40%;
         margin-left: 30%;
@@ -137,6 +143,7 @@ hr{
             margin-bottom: 2%;
             color: rgb(27, 27, 27);
             opacity: 0.7;
+            margin-left:30%;
         }
         .sign{
             margin-top: 2%;
