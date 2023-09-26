@@ -102,6 +102,9 @@ hr{
     margin-left:25%;
 }
 @media(min-width:1000px){
+    .item {
+    background-size:auto 80vh;
+}
     .screen{
     margin-left: 15vw;
     height: 80vh;
@@ -236,7 +239,7 @@ hr{
     display: inline;
     background-repeat: no-repeat;
     background-position: 60%;
-    background-size:cover;
+    background-size:auto 40vh;
     transition-duration: 1.2s;
 }
 .item:hover{
