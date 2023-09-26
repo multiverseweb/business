@@ -5,12 +5,11 @@
 
 body{
     margin-top: 4%;
-    /*font-size:40px;*/
+    font-size:40px;
     font-family:'Times New Roman', Times, serif;
     overflow-x:hidden;
     color: rgba(255, 255, 255, 0.844);
     background-color: rgba(0, 0, 0, 0.871);
-    font-size: 2.4dvw;
 }
 ::selection{
     background-color: rgba(255, 255, 255, 0.312);
@@ -194,7 +193,7 @@ hr{
 
 .screen{
     margin-left: 15vw;
-    height: 80vh;
+    height: 40vh;
     width: 70vw;
     overflow: hidden;
     margin-top: 40px;
@@ -235,6 +234,7 @@ hr{
     left: 22.5%;
     transform: translate(-50%, -50%);
     transition-duration: 1.2s;
+    font-size: 2.4dvw;
 }
 .items{
     display: flex;
