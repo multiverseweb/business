@@ -38,7 +38,7 @@ body{
     filter: invert(1);
 }
 .textname{
-    margin-top:20px;
+    padding-top:20px;
     margin-left: 10%;
     transform: translate(-50%)
 }
