@@ -247,7 +247,7 @@ hr{
 }
 .item a {
     position: relative;
-    top: 40%;
+    top: 15%;
     left: 22.5%;
     transform: translate(-50%, -50%);
     transition-duration: 1.2s;
@@ -270,7 +270,7 @@ hr{
     width: 70vw;
 }
 #mount:hover a{
-    top: 20%;
+    top: 7%;
 }
 #green {
     background-image: url("tree.jpg");
@@ -280,7 +280,7 @@ hr{
     width: 70vw;
 }
 #green:hover a{
-    top: 20%;
+    top: 7%;
 }
 #desert {
     background-image: url("desert.jpg");
@@ -290,7 +290,7 @@ hr{
     width: 70vw;
 }
 #desert:hover a{
-    top: 20%;
+    top: 7%;
 }
 #ocean {
     background-image: url("ocean.jpg");
@@ -300,5 +300,5 @@ hr{
     width: 70vw;
 }
 #ocean:hover a{
-    top: 20%;
+    top: 7%;
 }
