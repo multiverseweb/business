@@ -221,6 +221,7 @@ hr{
     padding-top: 1vh;
 }
 .navbar a{
+    font-size:40px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
