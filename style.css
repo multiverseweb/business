@@ -9,7 +9,7 @@ body{
     font-family:'Times New Roman', Times, serif;
     overflow-x:hidden;
     color: rgba(255, 255, 255, 0.844);
-    background-color: rgba(0, 0, 0, 0.871);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 ::selection{
     background-color: rgba(255, 255, 255, 0.312);
