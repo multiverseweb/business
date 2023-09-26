@@ -75,13 +75,13 @@ body{
     color: white;
     text-decoration: none;
     padding: 1%;
-    background-color: rgba(27, 27, 27, 0.685);
+    background-color: rgba(255, 255, 255, 0.215);
     margin-top: 4%;
     border-radius: 9px;
 }
 a:hover{
     transform: scale(1.02);
-    background-color: rgba(34, 34, 34,0.685);
+    background-color: rgba(27, 27, 27, 0.685);
     transition-duration: 0.1s;
 }
 .sign{
