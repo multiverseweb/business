@@ -240,7 +240,7 @@ hr{
     display: inline;
     background-repeat: no-repeat;
     background-position-x: 60%;
-    background-size:auto 40vh;
+    background-size:auto 30vh;
     transition-duration: 1.2s;
 }
 .item:hover{
@@ -257,7 +257,7 @@ hr{
 .items{
     display: flex;
     flex-direction: row;
-    filter: sepia(0.2);
+    filter: sepia(0.3);
 }
 .items:hover .item{
     filter: saturate(0);
