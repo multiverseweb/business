@@ -238,7 +238,7 @@ hr{
     height: 100vh;
     display: inline;
     background-repeat: no-repeat;
-    background-position: 60%;
+    background-position-x: 60%;
     background-size:auto 40vh;
     transition-duration: 1.2s;
 }
