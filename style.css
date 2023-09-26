@@ -263,43 +263,43 @@ hr{
     width: 10vw;
 }
 
-#mount {
+#projects {
     background-image: url("projects.jpg");
 }
-#mount:hover{
+#projects:hover{
     filter:saturate(1);
     width: 70vw;
 }
-#mount:hover a{
+#projects:hover a{
     top: 7%;
 }
-#green {
+#photos {
     background-image: url("photos.jpg");
 }
-#green:hover{
+#photos:hover{
     filter:saturate(1);
     width: 70vw;
 }
-#green:hover a{
+#photos:hover a{
     top: 7%;
 }
-#desert {
+#last {
     background-image: url("map.jpg");
 }
-#desert:hover{
+#last:hover{
     filter:saturate(1);
     width: 70vw;
 }
-#desert:hover a{
+#last:hover a{
     top: 7%;
 }
-#ocean {
+#business {
     background-image: url("business.jpg");
 }
-#ocean:hover{
+#business:hover{
     filter:saturate(1);
     width: 70vw;
 }
-#ocean:hover a{
+#business:hover a{
     top: 7%;
 }
