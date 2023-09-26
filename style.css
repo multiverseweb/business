@@ -106,6 +106,9 @@ hr{
     height: 80vh;
     width: 70vw;
 }
+    .navbar{
+        font-size: 4vh;
+    }
     .links{
         width: 40%;
         margin-left: 30%;
@@ -199,9 +202,9 @@ hr{
 
 
 .screen{
-    margin-left: 15vw;
+    margin-left: 5vw;
     height: 40vh;
-    width: 70vw;
+    width: 90vw;
     overflow: hidden;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -214,7 +217,7 @@ hr{
     position: absolute;
     width: 70vw;
     height: 6vh;
-    font-size: 4vh;
+    font-size: 2vh;
     padding-top: 1vh;
 }
 .navbar a{
