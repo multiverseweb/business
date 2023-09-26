@@ -108,6 +108,7 @@ hr{
 }
     .navbar{
         font-size: 4vh;
+        width: 70vw;
     }
     .links{
         width: 40%;
@@ -202,6 +203,7 @@ hr{
 
 
 .screen{
+    border-radius:10px;
     margin-left: 5vw;
     height: 40vh;
     width: 90vw;
@@ -215,7 +217,7 @@ hr{
     z-index: 10;
     background-color: rgba(117, 117, 117, 0.248);
     position: absolute;
-    width: 70vw;
+    width: 90vw;
     height: 6vh;
     font-size: 2vh;
     padding-top: 1vh;
