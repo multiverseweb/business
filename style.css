@@ -85,6 +85,9 @@ a:hover{
     background-color: rgba(27, 27, 27, 0.685);
     transition-duration: 0.1s;
 }
+.links a p{
+    margin-top:20px;
+}
 .sign{
     font-family: Snell Roundhand;
     text-align: center;
