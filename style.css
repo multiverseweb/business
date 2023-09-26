@@ -263,6 +263,7 @@ hr{
     filter: sepia(0.3);
 }
 .items:hover .item{
+    filter: sepia(0);
     filter: saturate(0);
     width: 10vw;
 }
