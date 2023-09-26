@@ -1,10 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body{
     margin-top: 4%;
-    background-color: black;
-    color: white;
-    font-size:40px;
+    /*font-size:40px;*/
     font-family:'Times New Roman', Times, serif;
     overflow-x:hidden;
+    color: rgba(255, 255, 255, 0.844);
+    background-color: rgba(0, 0, 0, 0.871);
+    font-size: 2.4dvw;
+}
+::selection{
+    background-color: rgba(255, 255, 255, 0.312);
 }
 
 #face{
@@ -183,3 +192,99 @@ hr{
         position: absolute;
         z-index: -1000;
   }
+
+
+
+.screen{
+    margin-left: 15vw;
+    height: 80vh;
+    width: 70vw;
+    overflow: hidden;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.215);
+    border-bottom-width: 30px;
+}
+.navbar {
+    z-index: 10;
+    background-color: rgba(117, 117, 117, 0.248);
+    position: absolute;
+    width: 70vw;
+    height: 6vh;
+    font-size: 4vh;
+    padding-top: 1vh;
+}
+.navbar a{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.item {
+    width: 25vw;
+    height: 100vh;
+    display: inline;
+    background-repeat: no-repeat;
+    background-position: 60%;
+    background-size:cover;
+    transition-duration: 1.2s;
+}
+.item:hover{
+    filter:saturate(0);
+}
+.item a {
+    position: relative;
+    top: 40%;
+    left: 22.5%;
+    transform: translate(-50%, -50%);
+    transition-duration: 1.2s;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+}
+.items:hover .item{
+    filter: saturate(0);
+    width: 10vw;
+}
+
+#mount {
+    background-image: url("mountain.avif");
+}
+#mount:hover{
+    filter:saturate(1);
+    width: 70vw;
+}
+#mount:hover a{
+    top: 20%;
+}
+#green {
+    background-image: url("tree.jpg");
+}
+#green:hover{
+    filter:saturate(1);
+    width: 70vw;
+}
+#green:hover a{
+    top: 20%;
+}
+#desert {
+    background-image: url("desert.jpg");
+}
+#desert:hover{
+    filter:saturate(1);
+    width: 70vw;
+}
+#desert:hover a{
+    top: 20%;
+}
+#ocean {
+    background-image: url("ocean.jpg");
+}
+#ocean:hover{
+    filter:saturate(1);
+    width: 70vw;
+}
+#ocean:hover a{
+    top: 20%;
+}
