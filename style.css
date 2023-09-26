@@ -264,7 +264,7 @@ hr{
 }
 
 #mount {
-    background-image: url("mountain.avif");
+    background-image: url("projects.jpg");
 }
 #mount:hover{
     filter:saturate(1);
@@ -274,7 +274,7 @@ hr{
     top: 7%;
 }
 #green {
-    background-image: url("tree.jpg");
+    background-image: url("photos.jpg");
 }
 #green:hover{
     filter:saturate(1);
@@ -284,7 +284,7 @@ hr{
     top: 7%;
 }
 #desert {
-    background-image: url("desert.jpg");
+    background-image: url("map.jpg");
 }
 #desert:hover{
     filter:saturate(1);
@@ -294,7 +294,7 @@ hr{
     top: 7%;
 }
 #ocean {
-    background-image: url("ocean.jpg");
+    background-image: url("business.jpg");
 }
 #ocean:hover{
     filter:saturate(1);
